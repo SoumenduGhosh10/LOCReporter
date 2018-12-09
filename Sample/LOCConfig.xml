@@ -1,0 +1,26 @@
+<config>
+	<SourceServers>
+		<Server>assert.xUnit,https://github.com/xunit/assert.xunit.git,C:\\Local\\assert.xunit</Server>
+		
+		<Server>xunit,https://github.com/xunit/xunit.git,C:\\Local\\xunit</Server>
+		
+		<Server>devices.xunit,https://github.com/xunit/devices.xunit.git,C:\\Local\\devices.xunit</Server>
+		
+		<Server>xunit.integration,https://github.com/xunit/xunit.integration.git,C:\\Local\\xunit.integration</Server>
+		
+		<Server>xunit.analyzers,https://github.com/xunit/xunit.analyzers.git,C:\\Local\\xunit.analyzers</Server>
+		
+		<Server>abstractions.xunit,https://github.com/xunit/abstractions.xunit.git,C:\\Local\\abstractions.xunit</Server>
+		
+		<Server>xamarinstudio.xunit,https://github.com/xunit/xamarinstudio.xunit.git,C:\\Local\\xamarinstudio.xunit</Server>
+		
+		<Server>testextensions.xunit,https://github.com/xunit/testextensions.xunit.git,C:\\Local\\testextensions.xunit</Server>
+		
+		<Server>testextensions.xunit.intgr,https://github.com/xunit/testextensions.xunit.integration.git,C:\\Local\\testextensions.xunit.integration</Server>
+		
+		<Server>visualstudio.xunit,https://github.com/xunit/visualstudio.xunit.git,C:\\Local\\visualstudio.xunit</Server>
+		
+		<Server>resharper-xunit,https://github.com/xunit/resharper-xunit.git,C:\\Local\\resharper-xunit</Server>
+	</SourceServers>
+	<LOC ExcludedDirectory="Properties,My Project,bin,debug" ExcludedExtension="csproj,vbproj" ExcludeFileByRegularExpression=".*\.[dD]esigner\.*"></LOC>
+</config>
